@@ -353,7 +353,7 @@ public final class ShutdownHookManager {
    * Indicates if a shutdownHook is registered or not.
    *
    * @param shutdownHook shutdownHook to check if registered.
-   * @return TRUE/FALSE depending if the shutdownHook is is registered.
+   * @return TRUE/FALSE depending on if the shutdownHook is registered.
    */
   @InterfaceAudience.Public
   @InterfaceStability.Stable
